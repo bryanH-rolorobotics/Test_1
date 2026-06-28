@@ -1,62 +1,74 @@
 [
   {
-    "question": "What is the capital of Australia?",
-    "answer": "Canberra",
-    "choices": ["Sydney", "Melbourne", "Canberra", "Brisbane"]
+    "question": "What is the capital of France?",
+    "answer": "Paris"
   },
   {
-    "question": "What is the chemical symbol for gold?",
-    "answer": "Au",
-    "choices": ["Go", "Ag", "Au", "Gd"]
+    "question": "What is 7 multiplied by 8?",
+    "answer": "56"
   },
   {
-    "question": "In what year did World War II end?",
-    "answer": "1945",
-    "choices": ["1942", "1943", "1944", "1945"]
+    "question": "What programming language is known for its use of indentation to define code blocks?",
+    "answer": "Python"
   },
   {
-    "question": "Which planet is known as the Red Planet?",
-    "answer": "Mars",
-    "choices": ["Venus", "Mars", "Jupiter", "Saturn"]
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
   },
   {
-    "question": "Who directed the 1993 film 'Jurassic Park'?",
-    "answer": "Steven Spielberg",
-    "choices": ["James Cameron", "George Lucas", "Steven Spielberg", "Christopher Nolan"]
+    "question": "In what year did the first moon landing occur?",
+    "answer": "1969"
   },
   {
-    "question": "What is the longest river in the world?",
-    "answer": "Nile",
-    "choices": ["Amazon", "Nile", "Yangtze", "Mississippi"]
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Jupiter"
   },
   {
-    "question": "What is the powerhouse of the cell?",
-    "answer": "Mitochondria",
-    "choices": ["Nucleus", "Ribosome", "Mitochondria", "Golgi apparatus"]
+    "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+    "answer": "Harper Lee"
   },
   {
-    "question": "Which country hosted the 2016 Summer Olympics?",
-    "answer": "Brazil",
-    "choices": ["China", "United Kingdom", "Brazil", "Japan"]
+    "question": "How many players are on a standard soccer team on the field?",
+    "answer": "11"
   },
   {
-    "question": "Who wrote 'Romeo and Juliet'?",
-    "answer": "William Shakespeare",
-    "choices": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Geoffrey Chaucer"]
+    "question": "What element has the atomic number 1?",
+    "answer": "Hydrogen"
   },
   {
-    "question": "How many sides does a hexagon have?",
-    "answer": "6",
-    "choices": ["5", "6", "7", "8"]
+    "question": "Which Shakespeare play features the characters Romeo and Juliet?",
+    "answer": "Romeo and Juliet"
   },
   {
-    "question": "Which element has the atomic number 1?",
-    "answer": "Hydrogen",
-    "choices": ["Helium", "Hydrogen", "Lithium", "Carbon"]
+    "question": "In which country were the 2016 Summer Olympics held?",
+    "answer": "Brazil"
   },
   {
-    "question": "What is the largest ocean on Earth?",
-    "answer": "Pacific Ocean",
-    "choices": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"]
+    "question": "What is the speed of light in a vacuum (approximately, in km/s)?",
+    "answer": "300000"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What year did World War II end?",
+    "answer": "1945"
+  },
+  {
+    "question": "Which pop star is known as the 'Queen of Pop'?",
+    "answer": "Madonna"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "answer": "Diamond"
+  },
+  {
+    "question": "How many bones are in the adult human body?",
+    "answer": "206"
+  },
+  {
+    "question": "What ancient wonder was located in Alexandria, Egypt?",
+    "answer": "The Lighthouse of Alexandria"
   }
 ]
