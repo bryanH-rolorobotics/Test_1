@@ -17,7 +17,23 @@ def load_questions(path="questions.json"):
     return [Question(q["question"], q["answer"], q.get("choices", [])) for q in data]
 
 
+def load_scores(path="scores.json"):
+    try:
+        with open(path) as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return {"high_score": 0, "history": []}
+
+
+def save_scores(scores, path="scores.json"):
+    with open(path, "w") as f:
+        json.dump(scores, f, indent=2)
+
+
 def run_quiz():
+    scores = load_scores()
+    print(f"Current high score: {scores['high_score']}")
+
     questions = load_questions()
     score = 0
     for question in questions:
@@ -32,6 +48,14 @@ def run_quiz():
         else:
             print(f"Wrong! The correct answer is: {question.answer}")
     print(f"You scored {score}/{len(questions)}")
+
+    scores["history"].append({"score": score, "total": len(questions)})
+    if score > scores["high_score"]:
+        scores["high_score"] = score
+        save_scores(scores)
+        print("New high score! Congratulations!")
+    else:
+        save_scores(scores)
 
 
 if __name__ == "__main__":
