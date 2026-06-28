@@ -22,5 +22,53 @@
   {
     "question": "What is the largest planet in our solar system?",
     "answer": "Jupiter"
+  },
+  {
+    "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+    "answer": "Harper Lee"
+  },
+  {
+    "question": "How many players are on a standard soccer team on the field?",
+    "answer": "11"
+  },
+  {
+    "question": "What element has the atomic number 1?",
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "Which Shakespeare play features the characters Romeo and Juliet?",
+    "answer": "Romeo and Juliet"
+  },
+  {
+    "question": "In which country were the 2016 Summer Olympics held?",
+    "answer": "Brazil"
+  },
+  {
+    "question": "What is the speed of light in a vacuum (approximately, in km/s)?",
+    "answer": "300000"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What year did World War II end?",
+    "answer": "1945"
+  },
+  {
+    "question": "Which pop star is known as the 'Queen of Pop'?",
+    "answer": "Madonna"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "answer": "Diamond"
+  },
+  {
+    "question": "How many bones are in the adult human body?",
+    "answer": "206"
+  },
+  {
+    "question": "What ancient wonder was located in Alexandria, Egypt?",
+    "answer": "The Lighthouse of Alexandria"
   }
 ]
