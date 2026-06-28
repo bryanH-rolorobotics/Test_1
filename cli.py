@@ -1,5 +1,5 @@
 import argparse
-from foo import foo
+from utils import foo
 
 
 def main():
