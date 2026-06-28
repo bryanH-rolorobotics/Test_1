@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "Canberra",
+    "choices": ["Sydney", "Melbourne", "Canberra", "Brisbane"]
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au",
+    "choices": ["Go", "Ag", "Au", "Gd"]
+  },
+  {
+    "question": "In what year did World War II end?",
+    "answer": "1945",
+    "choices": ["1942", "1943", "1944", "1945"]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answer": "Mars",
+    "choices": ["Venus", "Mars", "Jupiter", "Saturn"]
+  },
+  {
+    "question": "Who directed the 1993 film 'Jurassic Park'?",
+    "answer": "Steven Spielberg",
+    "choices": ["James Cameron", "George Lucas", "Steven Spielberg", "Christopher Nolan"]
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "answer": "Nile",
+    "choices": ["Amazon", "Nile", "Yangtze", "Mississippi"]
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "answer": "Mitochondria",
+    "choices": ["Nucleus", "Ribosome", "Mitochondria", "Golgi apparatus"]
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "answer": "Brazil",
+    "choices": ["China", "United Kingdom", "Brazil", "Japan"]
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answer": "William Shakespeare",
+    "choices": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Geoffrey Chaucer"]
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "answer": "6",
+    "choices": ["5", "6", "7", "8"]
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "answer": "Hydrogen",
+    "choices": ["Helium", "Hydrogen", "Lithium", "Carbon"]
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answer": "Pacific Ocean",
+    "choices": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"]
+  }
+]
