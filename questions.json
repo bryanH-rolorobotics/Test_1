@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "Paris"
+  },
+  {
+    "question": "What is 7 multiplied by 8?",
+    "answer": "56"
+  },
+  {
+    "question": "What programming language is known for its use of indentation to define code blocks?",
+    "answer": "Python"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
+  },
+  {
+    "question": "In what year did the first moon landing occur?",
+    "answer": "1969"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Jupiter"
+  }
+]
